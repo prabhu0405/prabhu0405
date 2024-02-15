@@ -1,4 +1,4 @@
-[![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)]
+![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Prabhudata P Dash</h1>
 <h3 align="center">A passionate app developer and interested in Human-User Interface.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/59e16042ec229e00016d3a66/5d28c4d80c377dfd431dc44d_mitch.png">
