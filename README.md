@@ -3,7 +3,7 @@
 <h3 align="center">A passionate app and ai-ml developer and interested in Human-User Interface.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/59e16042ec229e00016d3a66/5d28c4d80c377dfd431dc44d_mitch.png">
 
-- 🔭 I’m currently working on [Note It(an notes making app)](https://github.com/prabhu0405/Note-It)
+- 🔭 I’m currently working on [AI-ML Projects]
 
 - 🌱 I’m currently learning **DSA in Java, Advance Kotlin and Deep Learning**
 
