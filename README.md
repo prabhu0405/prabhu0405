@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **DSA in Java, Advance Kotlin and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Any New Android Projects**
+- 👯 I’m looking to collaborate on **Any New ML Projects**
 
-- 💬 Ask me about **Android Studio and C**
+- 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **ppdash266@gmail.com**
 
